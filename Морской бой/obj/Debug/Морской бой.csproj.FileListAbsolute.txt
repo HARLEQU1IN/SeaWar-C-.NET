@@ -1,0 +1,10 @@
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\bin\Debug\SeaWars.exe.config
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\bin\Debug\SeaWars.exe
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\bin\Debug\SeaWars.pdb
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\obj\Debug\Морской бой.csproj.AssemblyReference.cache
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\obj\Debug\SeaWars.Form1.resources
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\obj\Debug\SeaWars.Properties.Resources.resources
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\obj\Debug\Морской бой.csproj.GenerateResource.cache
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\obj\Debug\Морской бой.csproj.CoreCompileInputs.cache
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\obj\Debug\SeaWars.exe
+\\vdiprofile\up$\st321-14\Desktop\Морской бой\obj\Debug\SeaWars.pdb

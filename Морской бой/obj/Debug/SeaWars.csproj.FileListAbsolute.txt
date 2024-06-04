@@ -1,0 +1,10 @@
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\bin\Debug\SeaWars.exe.config
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\bin\Debug\SeaWars.exe
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\bin\Debug\SeaWars.pdb
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.csproj.AssemblyReference.cache
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.Form1.resources
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.Properties.Resources.resources
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.csproj.GenerateResource.cache
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.exe
+\\vdiprofile\up$\st321-14\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.pdb
